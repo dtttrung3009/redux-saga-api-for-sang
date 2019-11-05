@@ -13,6 +13,8 @@
     "react": "16.9.0",
     "react-native": "0.61.3",
     "react-native-button": "^2.4.0",
+    "react-native-modalbox": "^2.0.0",
+    "react-native-swipeout": "^2.3.6",
     "react-redux": "^7.1.1",
     "redux": "^4.0.4",
     "redux-saga": "^1.1.1"
